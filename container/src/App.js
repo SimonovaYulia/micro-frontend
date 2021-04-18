@@ -3,7 +3,7 @@ import MarketingApp from "./components/MarketingApp";
 export default () => {
   return (
     <div>
-      <p>MFE container</p>
+      <p>Main container</p>
       <hr />
       <MarketingApp />
     </div>
